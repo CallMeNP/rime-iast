@@ -1,0 +1,123 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Sanskrit/IAST
+#
+# 使用說明
+#   aa=>ā
+# Author:
+#  - no~problem	<np.liamg@gmail.com>
+#  - 2023.12.11
+#
+# 版權歸作者所有
+#
+#Ā AA
+#Ī II
+#Ū UU
+#ū uu
+#ā aa
+#ī ii
+#Ḹ .LL
+#ḹ .ll
+#ṝ .rr
+#Ṝ .RR
+
+---
+name: iast
+version: "20231211"
+sort: original
+...
+
+ḍ	.d
+Ḍ	.D
+Ḥ	.H
+ḥ	.h
+ḷ	.l
+Ḷ	.L
+Ṃ	.M
+ṃ	.m
+ṇ	.n
+Ṇ	.N
+ṛ	.r
+Ṛ	.R
+ṣ	.s
+Ṣ	.S
+Ṭ	.T
+ṭ	.t
+Ḹ	.-L
+ḹ	.-l
+ṝ	.-r
+Ṝ	.-R
+Ḹ	-.L
+ḹ	-.l
+ṝ	-.r
+Ṝ	-.R
+Ṅ	'N
+ṅ	'n
+Ṅ	,N
+ṅ	,n
+Ā	-A
+Ī	-I
+Ū	-U
+ū	-u
+ā	-a
+ī	-i
+ś	/s
+Ś	/S
+Ñ	~N
+ñ	~n
+â	^a
+î	^i
+û	^u
+Ṅ	,N
+ṅ	,n
+ś	,,s
+Ś	,,S
+Ñ	,,N
+ñ	,,n
+â	,,a
+î	,,i
+û	,,u
+a	a
+b	b
+c	c
+d	d
+e	e
+g	g
+h	h
+i	i
+j	j
+k	k
+l	l
+m	m
+n	n
+o	o
+p	p
+r	r
+s	s
+t	t
+u	u
+v	v
+y	y
+A	A
+B	B
+C	C
+D	D
+E	E
+G	G
+H	H
+I	I
+J	J
+K	K
+L	L
+M	M
+N	N
+O	O
+P	P
+R	R
+S	S
+T	T
+U	U
+V	V
+Y	Y
+
